@@ -1,0 +1,156 @@
+@font-face {
+    font-family: montserrat-black;
+    src: url('../fonts/montserrat/Montserrat-Black.ttf');
+}
+
+@font-face {
+    font-family: montserrat-black-italic;
+    src: url('../fonts/montserrat/Montserrat-BlackItalic.ttf');
+}
+
+@font-face {
+    font-family: montserrat-bold;
+    src: url('../fonts/montserrat/Montserrat-Bold.ttf');
+}
+
+@font-face {
+    font-family: montserrat-extrabold-italic;
+    src: url('../fonts/montserrat/Montserrat-ExtraBoldItalic.ttf');
+}
+
+@font-face {
+    font-family: montserrat-italic;
+    src: url('../fonts/montserrat/Montserrat-Italic.ttf');
+}
+
+@font-face {
+    font-family: montserrat-light;
+    src: url('../fonts/montserrat/Montserrat-Light.ttf');
+}
+
+
+@font-face {
+    font-family: montserrat-light-italic;
+    src: url('../fonts/montserrat/Montserrat-LightItalic.ttf');
+}
+
+
+@font-face {
+    font-family: montserrat-medium;
+    src: url('../fonts/montserrat/Montserrat-Medium.ttf');
+}
+
+@font-face {
+    font-family: montserrat-medium-italic;
+    src: url('../fonts/montserrat//Montserrat-MediumItalic.ttf');
+}
+
+
+@font-face {
+    font-family: montserrat-regular;
+    src: url('../fonts/montserrat/Montserrat-Regular.ttf');
+}
+
+
+@font-face {
+    font-family: montserrat-semibold;
+    src: url('../fonts/montserrat/Montserrat-SemiBold.ttf');
+}
+
+
+
+@font-face {
+    font-family: montserrat-semibold-italic;
+    src: url('../fonts/montserrat/Montserrat-SemiBoldItalic.ttf');
+}
+
+
+@font-face {
+    font-family: montserrat-thin;
+    src: url('../fonts/montserrat/Montserrat-Thin.ttf');
+}
+
+
+@font-face {
+    font-family: montserrat-thinitalic;
+    src: url('../fonts/montserrat/Montserrat-ThinItalic.ttf');
+}
+
+
+
+
+
+
+
+
+@font-face {
+    font-family: nunito-black;
+    src: url('../fonts/nunito/Nunito-Black.ttf');
+}
+
+
+
+@font-face {
+    font-family: nunito-blackitalic;
+    src: url('../fonts/nunito/Nunito-BlackItalic.ttf');
+}
+
+
+@font-face {
+    font-family: nunito-bolditalic;
+    src: url('../fonts/nunito/Nunito-BoldItalic.ttf');
+}
+
+
+
+@font-face {
+    font-family: nunito-extrabold-italic;
+    src: url('../fonts/nunito/Nunito-ExtraBoldItalic.ttf');
+}
+
+
+@font-face {
+    font-family: nunito-extralight;
+    src: url('../fonts/nunito/Nunito-ExtraLight.ttf');
+}
+
+
+@font-face {
+    font-family: nunito-extralight-italic;
+    src: url('../fonts/nunito/Nunito-ExtraLightItalic.ttf');
+}
+
+
+@font-face {
+    font-family: nunito-italic;
+    src: url('../fonts/nunito/Nunito-Italic.ttf');
+}
+
+
+@font-face {
+    font-family: nunito-light;
+    src: url('../fonts/nunito/Nunito-Light.ttf');
+}
+
+
+@font-face {
+    font-family: nunito-lightitalic;
+    src: url('../fonts/nunito/Nunito-LightItalic.ttf');
+}
+
+
+@font-face {
+    font-family: nunito-regular;
+    src: url('../fonts/nunito/Nunito-Regular.ttf');
+}
+
+
+@font-face {
+    font-family: nunito-semibold;
+    src: url('../fonts/nunito/Nunito-SemiBold.ttf');
+}
+
+@font-face {
+    font-family: nunito-semibold-italic;
+    src: url('../fonts/nunito/Nunito-SemiBoldItalic.ttf');
+}
