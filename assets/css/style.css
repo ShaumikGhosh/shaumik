@@ -808,8 +808,8 @@ body{
     width: 50px;
     height: 70px;
     background-color: #57016D;
-    right: 0;
-    bottom: 100px;
+    right: 20px;
+    bottom: 50px;
     box-shadow: 5px 5px 20px;
 
     display: flex;
