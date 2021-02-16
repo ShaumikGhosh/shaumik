@@ -1,4 +1,6 @@
 $(document).ready(function(){
+
+
     $('.fa-align-justify').click(function(){
 
         var status = $('.fa-align-justify').attr('switch');
@@ -15,4 +17,20 @@ $(document).ready(function(){
             $('.header-area').css('height', '560px');
         }
     });
+
+
+
+    window.goUp = function () {
+		$("html, body").animate({ scrollTop: 0 }, "slow");
+	}
+
+
+    setInterval(function(){
+		if (this.scrollY > 200) {
+			$('#scroller-button').fadeIn();
+		}else{
+			$('#scroller-button').fadeOut();
+		}
+	});
+
 })
