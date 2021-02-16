@@ -26,11 +26,47 @@ $(document).ready(function(){
 
 
     setInterval(function(){
+
+
 		if (this.scrollY > 200) {
 			$('#scroller-button').fadeIn();
 		}else{
 			$('#scroller-button').fadeOut();
 		}
+
 	});
+
+    $('#home').click(function(){
+        $("html, body").animate({ scrollTop: 0 }, "slow");
+    })
+
+    $('#contact').click(function(){
+        if($(window).width() >= 2560) {
+            $("html, body").animate({ scrollTop: 4352 }, "slow");
+        }
+
+        if($(window).width() >= 1440) {
+            $("html, body").animate({ scrollTop: 4424 }, "slow");
+        }
+
+        if($(window).width() >= 1024) {
+            $("html, body").animate({ scrollTop: 4871 }, "slow");
+        }
+
+        if($(window).width() >= 768) {
+            $("html, body").animate({ scrollTop: 5650 }, "slow");
+        }
+
+        if($(window).width() >= 425) {
+            $("html, body").animate({ scrollTop: 8650 }, "slow");
+        }
+
+        if($(window).width() >= 300) {
+            $("html, body").animate({ scrollTop: 9200 }, "slow");
+        }
+    })
+
+    console.log($(window).width());
+    console.log($(document).height());
 
 })
